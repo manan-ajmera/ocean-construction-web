@@ -42,9 +42,7 @@ export default function Navigation() {
             <Link href="/services" className="text-gray-800 hover:text-blue-700 transition duration-300 font-medium">
               Services
             </Link>
-            <Link href="/projects" className="text-gray-800 hover:text-blue-700 transition duration-300 font-medium">
-              Projects
-            </Link>
+  
             <Link href="/contact" className="text-gray-800 hover:text-blue-700 transition duration-300 font-medium">
               Contact
             </Link>

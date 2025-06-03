@@ -43,7 +43,7 @@ export default function AboutPage() {
             <div>
               <h2 className="text-3xl font-bold mb-4">Our Story</h2>
               <p className="text-gray-600 mb-4">
-                Founded in 1995, Ocean Construction began with a simple mission: to provide honest, high-quality construction services at fair prices. What started as a small contracting business has grown into a comprehensive construction company trusted by clients throughout the region.
+                Ocean Construction began with a simple mission: to provide honest, high-quality construction services at fair prices. What started as a small contracting business has grown into a comprehensive construction company trusted by clients throughout the region.
               </p>
               <p className="text-gray-600 mb-4">
                 Our founder, Pratyaksh Kakadiya, recognized a need for a construction company that prioritized client education and transparency. He built the business on the principle that informed clients make better decisions about their construction projects.

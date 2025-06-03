@@ -9,7 +9,7 @@ export default function Footer() {
           <div>
             <Image src="/images/logo.png" alt="Ocean Construction" width={180} height={50} className="mb-4 invert" />
             <p className="text-gray-400">
-              Building excellence since 1995. Quality construction services for residential and commercial projects.
+              Building excellence. Quality construction services for residential and commercial projects.
             </p>
           </div>
           
@@ -19,7 +19,7 @@ export default function Footer() {
               <li><Link href="/" className="text-gray-400 hover:text-white transition duration-300">Home</Link></li>
               <li><Link href="/about" className="text-gray-400 hover:text-white transition duration-300">About Us</Link></li>
               <li><Link href="/services" className="text-gray-400 hover:text-white transition duration-300">Services</Link></li>
-              <li><Link href="/projects" className="text-gray-400 hover:text-white transition duration-300">Projects</Link></li>
+              
               <li><Link href="/contact" className="text-gray-400 hover:text-white transition duration-300">Contact</Link></li>
             </ul>
           </div>
