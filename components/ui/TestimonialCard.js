@@ -12,7 +12,8 @@ export default function TestimonialCard({ quote, name, title, image }) {
           ))}
         </div>
       </div>
-      <p className="text-gray-600 mb-6 italic">"{quote}"</p>
+      <p className="text-gray-600 mb-6 italic">&quot;{quote}&quot;</p>
+
       <div className="flex items-center">
         {image && (
           <div className="relative w-12 h-12 rounded-full overflow-hidden mr-4">
