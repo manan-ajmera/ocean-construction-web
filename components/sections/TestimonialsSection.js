@@ -31,7 +31,9 @@ export default function TestimonialsSection() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">What Our Clients Say</h2>
           <p className="text-gray-600 max-w-2xl mx-auto">
-            Don&apos;t just take our word for it. Here&apos;s what our satisfied clients have to say about our services.
+          <p>Ocean Construction&apos;s team was amazing and they said, &quot;We couldn&apos;t be happier!&quot;</p>
+
+
           </p>
         </div>
         
