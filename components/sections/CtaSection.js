@@ -7,7 +7,7 @@ export default function CtaSection() {
       <div className="container mx-auto px-4 text-center">
         <h2 className="text-3xl font-bold mb-4">Ready to Start Your Construction Project?</h2>
         <p className="text-xl mb-8 max-w-2xl mx-auto">
-          Contact us today for a free consultation and quote. Let's bring your vision to life.
+          Contact us today for a free consultation and quote. Let&apos;s bring your vision to life.
         </p>
         <Link href="/contact">
           <Button variant="secondary" className="text-blue-700">

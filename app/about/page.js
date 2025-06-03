@@ -76,7 +76,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-bold mb-3">Integrity</h3>
               <p className="text-gray-600">
-                We believe in honest communication and transparent service. We'll never recommend unnecessary work or mislead our clients.
+                We believe in honest communication and transparent service. We&apos;ll never recommend unnecessary work or mislead our clients.
               </p>
             </div>
             
@@ -102,7 +102,7 @@ export default function AboutPage() {
               </div>
               <h3 className="text-xl font-bold mb-3">Client Focus</h3>
               <p className="text-gray-600">
-                Our clients are at the center of everything we do. We're committed to providing a positive experience and building lasting relationships.
+                Our clients are at the center of everything we do. We&apos;re committed to providing a positive experience and building lasting relationships.
               </p>
             </div>
           </div>

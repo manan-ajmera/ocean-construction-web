@@ -19,7 +19,7 @@ export default function AboutSection() {
           <div>
             <h2 className="text-3xl font-bold mb-4">About Ocean Construction</h2>
             <p className="text-gray-600 mb-6">
-              Ocean Construction has established itself as a leader in the construction industry. With over years of experience, we've built a reputation for excellence, reliability, and quality craftsmanship.
+              Ocean Construction has established itself as a leader in the construction industry. With over years of experience, we&apos;ve built a reputation for excellence, reliability, and quality craftsmanship.
             </p>
             <p className="text-gray-600 mb-8">
               Our team of skilled professionals is committed to delivering exceptional results on every project. From residential homes to commercial buildings, we approach each project with dedication, attention to detail, and a focus on client satisfaction.

@@ -23,7 +23,7 @@ export default function ContactPage() {
             <div>
               <h2 className="text-3xl font-bold mb-6">Get In Touch</h2>
               <p className="text-gray-600 mb-8">
-                We're here to help with any questions you may have about our construction services. Fill out the form or use the contact information below to reach us.
+                We&apos;re here to help with any questions you may have about our construction services. Fill out the form or use the contact information below to reach us.
               </p>
               
               <div className="space-y-6">
@@ -105,7 +105,7 @@ export default function ContactPage() {
     <div className="text-center mb-12">
       <h2 className="text-3xl font-bold mb-4">Find Us</h2>
       <p className="text-gray-600 max-w-2xl mx-auto">
-        We're conveniently located in Nikol, Ahmedabad. Stop by during business hours or schedule an appointment.
+        We&apos;re conveniently located in Nikol, Ahmedabad. Stop by during business hours or schedule an appointment.
       </p>
     </div>
     
