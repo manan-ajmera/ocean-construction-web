@@ -1,36 +1,56 @@
-This is a [Next.js](https://nextjs.org) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Ocean Construction 🏗️
+
+https://ocean-construction-web.vercel.app/
+
+Ocean Construction is a professional, fully responsive website built for a real-world client in the construction industry. Designed to elevate their online presence, the site highlights services, expertise, and contact options in a clean, modern layout.
+
+---
+
+## Project Overview
+
+This project was developed as a client commission to create an engaging and trustworthy web presence for Ocean Construction. The goal was to deliver a fast, mobile-friendly, and visually appealing website that effectively communicates their services and builds customer trust.
+
+---
+
+## Features
+
+- 🏢 **Professional Design** — Clean, modern aesthetic tailored for the construction industry  
+- 📱 **Responsive Layout** — Seamless experience across desktop, tablet, and mobile  
+- ⚡ **Optimized Performance** — Fast loading times and smooth navigation  
+- 📞 **Easy Contact Options** — Integrated contact form and Google Maps  
+- 🛠️ **Services Showcase** — Clearly displays core services and solutions  
+- 🎨 **Interactive Elements** — Smooth animations and user-friendly interface  
+- 🌐 **Live Deployment** — Hosted on Vercel for fast, reliable access  
+
+---
+
+## Tech Stack
+
+- **Next.js / React.js** — Modern web framework  
+- **Tailwind CSS** — Utility-first CSS for rapid styling  
+- **React Icons** — Visual enhancement  
+- **Vercel** — Fast and reliable deployment  
+
+---
 
 ## Getting Started
 
-First, run the development server:
+To run the project locally:
 
-```bash
+git clone https://github.com/manan-ajmera/ocean-construction-web.git
+cd ocean-construction-web
+npm install
 npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
-```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
 
-You can start editing the page by modifying `app/page.js`. The page auto-updates as you edit the file.
+The site will be live at [http://localhost:3000](http://localhost:3000)
 
-This project uses [`next/font`](https://nextjs.org/docs/app/building-your-application/optimizing/fonts) to automatically optimize and load [Geist](https://vercel.com/font), a new font family for Vercel.
+---
 
-## Learn More
+## Notes
 
-To learn more about Next.js, take a look at the following resources:
+This project was created as part of a client engagement. Certain assets and content are specific to Ocean Construction and should not be reused without permission.
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+---
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js) - your feedback and contributions are welcome!
-
-## Deploy on Vercel
-
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
-
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
+*Built and maintained by Ocean Construction.*
