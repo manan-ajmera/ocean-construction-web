@@ -41,8 +41,8 @@ export default function Footer() {
               Opp. Torrent Power Station,<br />
               Ring Road, Nikol,<br />
               Ahmedabad, Gujarat 382350<br />
-              <a href="tel:+9188669 83221" className="hover:text-white transition duration-300">Phone: +91 8866983221</a><br />
-              <a href="mailto:oceanconstruction22@gmail.com" className="hover:text-white transition duration-300">oceanconstruction22@gmail.com</a>
+              <a href="tel:+91 8866110592" className="hover:text-white transition duration-300">Phone: +91 8866110592</a><br />
+              <a href="mailto:oceanconstruction007@gmail.com" className="hover:text-white transition duration-300">oceanconstruction007@gmail.com</a>
             </address>
           </div>
         </div>
