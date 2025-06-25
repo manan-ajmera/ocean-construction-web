@@ -37,7 +37,7 @@ export default function ContactPage() {
                   <div>
                     <h3 className="text-lg font-semibold mb-1">Address</h3>
                     <p className="text-gray-600">
-                      442-444 Vishala Supreme,<br />
+                      4th floor 434,435 Vishala Supreme,<br />
                       Opp. Torrent Power Station,<br />
                       Ring Road, Nikol,<br />
                       Ahmedabad, Gujarat 382350

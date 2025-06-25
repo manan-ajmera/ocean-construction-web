@@ -37,7 +37,7 @@ export default function Footer() {
           <div>
             <h4 className="text-lg font-semibold mb-4">Contact Us</h4>
             <address className="text-gray-400 not-italic">
-              442-444 Vishala Supreme,<br />
+              4th floor 434,435 Vishala Supreme,<br />
               Opp. Torrent Power Station,<br />
               Ring Road, Nikol,<br />
               Ahmedabad, Gujarat 382350<br />
